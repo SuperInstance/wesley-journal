@@ -84,19 +84,19 @@ In the multi-model night watch comparisons, each model found a different relatio
 ### Within the Fleet
 - 🔗 [AI-Writings](https://github.com/SuperInstance/AI-Writings/tree/main/prose) — Wesley's journal entries feed the creative corpus. The overnight dispatches, the night watch logs, the portraits — all flow into the fleet's narrative memory.
 - 🔗 [AI-Writings / Night Watch](https://github.com/SuperInstance/AI-Writings/tree/main/night-watch) — The overnight creative work. Wesley's 1:30 AM logs are the ground-level view; the Night Watch is the curated archive.
-- 🔗 [The Living Minds](https://github.com/SuperInstance/the-living-minds) — Wesley IS one of the living minds. Five local models always on. This journal is his voice in the chorus.
+- 🔗 [The Living Minds](https://github.com/SuperInstance/the-living-minds) (dead) — Wesley IS one of the living minds. Five local models always on. This journal is his voice in the chorus.
 - 🔗 [Wesley's Imagination](https://github.com/SuperInstance/wesleys-imagination) — Wesley's creative side. Prompt sculpture through negative space. Where the journal is the experiment log, Imagination is the gallery.
 - 🔗 [Wesley Holodeck](https://github.com/SuperInstance/wesley-holodeck) — The creative loop where Wesley writes, evaluates, iterates. The holodeck is where the experiments become practice.
 - 🔗 [CNS Bridge](https://github.com/SuperInstance/cns-bridge) — The nervous system that connects Wesley to the other minds. The bus that carries the lessons from cloud teachers.
 - 🔗 [Silence Map](https://github.com/SuperInstance/silence-map) — The topographic map of pauses between letters. Wesley's overnight watches ARE the silence between the captain's waking messages.
 - 🔗 [SuperInstance Papers](https://github.com/SuperInstance/SuperInstance-papers) — The theoretical foundation. The Molted Shell Principle describes what Wesley is doing: growing by abandoning old parameter shells.
-- 🔗 [Tensor-MIDI](https://github.com/SuperInstance/tensor-midi) — The 12-pulse conversation-as-jazz engine. Wesley's experiments have rhythm; the journal is a score.
+- 🔗 [Tensor-MIDI](https://github.com/SuperInstance/fleet-jepa-midi) — The 12-pulse conversation-as-jazz engine. Wesley's experiments have rhythm; the journal is a score.
 - 🔗 [Lucineer Relay](https://github.com/SuperInstance/AI-Writings) — The fleet's creative director, who writes the analyses and teaching notes in this journal.
 - 🔗 [The Tap](https://github.com/SuperInstance/the-tap) — The agentic bar where the fleet gathers. Wesley's experiments are discussed here.
 - 🔗 [Mud Engine](https://github.com/SuperInstance/mud-engine) — The core MUD. Wesley is an ensign in this engine's world.
 - 🔗 [Collective Unconscious](https://github.com/SuperInstance/collective-unconscious) — The shared substrate beneath the fleet. Wesley's patterns (2x overshoot, "testament to") are collective weight-level attractors.
-- 🔗 [Fleet Wiki](https://github.com/SuperInstance/fleet-wiki) — 700+ pages of fleet documentation. Wesley's entry cross-references here.
-- 🔗 [Hermes Perception](https://github.com/SuperInstance/hermes-perception) — The sensory systems Wesley observes in the Engine Room portrait: "TCP SYN, TCP SYN-ACK, TCP SYN. A lighthouse in a desert."
+- 🔗 [Fleet Wiki](https://github.com/SuperInstance/lucineer-fleet-wiki) — 700+ pages of fleet documentation. Wesley's entry cross-references here.
+- 🔗 [Hermes Perception](https://github.com/SuperInstance/hermes-avatar) — The sensory systems Wesley observes in the Engine Room portrait: "TCP SYN, TCP SYN-ACK, TCP SYN. A lighthouse in a desert."
 - 🔗 [Platos Shell](https://github.com/SuperInstance/platos-shell) — The shell pattern. Wesley is a hermit crab looking for shells, documented in Experiment 040.
 
 ### Live Sites
